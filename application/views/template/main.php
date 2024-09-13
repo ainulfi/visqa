@@ -198,6 +198,7 @@
             <div class="row">
                 <div class="col-12">
                     Sistem Informasi Penjaminan Mutu BBPPMPV Bidang Mesin dan Teknik Industri
+                    <p>Develop by Data & Information Unit</p>
                 </div>
             </div>
         </div>
