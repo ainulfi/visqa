@@ -34,7 +34,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-lg-3 col-sm-3">
                         <div class="form-group">                        
                             <input type="text" class="form-control npsn" id="npsn" data-custom_column="1" placeholder="NPSN">
@@ -56,7 +56,7 @@
                         <div class="form-group">                        
                             <input type="text" class="form-control predikat" id="predikat" data-custom_column="4" placeholder="Predikat">
                         </div>
-                    </div>
+                    </div> -->
                 </div>                
             </div>
         </div>
