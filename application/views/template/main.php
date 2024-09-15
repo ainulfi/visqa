@@ -113,11 +113,11 @@
                     <ul class="navigation-menu">
 
                         <li class="has-submenu">
-                            <a href="<?= site_url('home/index') ?>"><i class="mdi mdi-airplay"></i>Dashboard</a>
+                            <a href="<?= site_url('Home/index') ?>"><i class="mdi mdi-airplay"></i>Dashboard</a>
                         </li>
 
                         <li class="has-submenu">
-                            <a href="<?= site_url('rp_all/index') ?>"><i class="mdi mdi-file-find"></i>Cari Data</a>
+                            <a href="<?= site_url('Rp_all/index') ?>"><i class="mdi mdi-file-find"></i>Cari Data</a>
                         </li>
 
                         <li class="has-submenu">
@@ -126,22 +126,22 @@
                                 <li class="has-submenu">
                                     <a href="#">Provinsi Jawa Barat</a>
                                     <ul class="submenu">
-                                        <li><a href="<?= site_url('rp2023_jabar/index') ?>">Tahun 2023</a></li>
-                                        <li><a href="<?= site_url('rp2024_jabar/index') ?>">Tahun 2024</a></li>
+                                        <li><a href="<?= site_url('Rp2023_jabar/index') ?>">Tahun 2023</a></li>
+                                        <li><a href="<?= site_url('Rp2024_jabar/index') ?>">Tahun 2024</a></li>
                                     </ul>
                                 </li>
                                 <li class="has-submenu">
                                     <a href="#">Provinsi Lampung</a>
                                     <ul class="submenu">
-                                        <li><a href="<?= site_url('rp2023_lampung/index') ?>">Tahun 2023</a></li>
-                                        <li><a href="<?= site_url('rp2024_lampung/index') ?>">Tahun 2024</a></li>
+                                        <li><a href="<?= site_url('Rp2023_lampung/index') ?>">Tahun 2023</a></li>
+                                        <li><a href="<?= site_url('Rp2024_lampung/index') ?>">Tahun 2024</a></li>
                                     </ul>
                                 </li>
                                 <li class="has-submenu">
                                     <a href="#">Provinsi Bengkulu</a>
                                     <ul class="submenu">
-                                        <li><a href="<?= site_url('rp2023_bengkulu/index') ?>">Tahun 2023</a></li>
-                                        <li><a href="<?= site_url('rp2024_bengkulu/index') ?>">Tahun 2024</a></li>
+                                        <li><a href="<?= site_url('Rp2023_bengkulu/index') ?>">Tahun 2023</a></li>
+                                        <li><a href="<?= site_url('Rp2024_bengkulu/index') ?>">Tahun 2024</a></li>
                                     </ul>
                                 </li>
                             </ul>
